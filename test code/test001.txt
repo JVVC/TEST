@@ -1,3 +1,4 @@
 测试gtihub
 
 efef
+ssh方式从github克隆成功。
